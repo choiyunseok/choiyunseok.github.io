@@ -14,10 +14,10 @@ International Conference
 * _Code Defect Detection using Pre-trained Language Models with Encoder-Decoder via Line-Level Defect Localization_     
 Jimin An, __YunSeok Choi__ and Jee-Hyong Lee     
 LREC-COLING 2024
-* _CodePrompt: Task-Agnostic Prefix Tuning for Program and Language Generation_
-__YunSeok Choi__ and Jee-Hyong Lee    
+* _CodePrompt: Task-Agnostic Prefix Tuning for Program and Language Generation_     
+__YunSeok Choi__ and Jee-Hyong Lee      
 Findings of ACL 2023
-* _BLOCSUM: Block Scope-based Source Code Summarization via Shared Block Representation_     
+* _BLOCSUM: Block Scope-based Source Code Summarization via Shared Block Representation_       
 __YunSeok Choi__, Hyojun Kim, and Jee-Hyong Lee     
 Findings of ACL 2023
 * CheolWon Na, __YunSeok Choi__, and Jee-Hyong Lee, DIP: Dead code Insertion based Black-box Attack for Programming Language Model, Proceedings of the 2023 Conference on Association for Computational Linguistics: ACL 2023
