@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-### International Conference
-======
+International Conference
+------
 * Jimin An, YunSeok Choi and Jee-Hyong Lee, Code Defect Detection using Pre-trained Language Models with Encoder-Decoder via Line-Level Defect Localization, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation: LREC-COLING 2024
 * YunSeok Choi and Jee-Hyong Lee, CodePrompt: Task-Agnostic Prefix Tuning for Program and Language Generation, Findings of the Association for Computational Linguistics: ACL 2023
 * YunSeok Choi, Hyojun Kim, and Jee-Hyong Lee, BLOCSUM: Block Scope-based Source Code Summarization via Shared Block Representation, Findings of the Association for Computational Linguistics: ACL 2023
@@ -26,8 +26,8 @@ redirect_from:
 * YunSeok Choi, Dahae Kim, and Jee-Hyong Lee, Abstractive Summarization by Neural Attention Model with Document Content Memory, Proceedings of Conference on Research in Adaptive and Convergent Systems: ACM-RACS 2018
 * YunSeok Choi, Suah Kim, and Jee-Hyong Lee, Recurrent Neural Network for Storytelling, Proceedings of International Symposium on Advanced Intelligent Systems: SCIS-ISIS 2016
 
-### International Journal
-======
+International Journal
+------
 * YunSeok Choi, Hyojun Kim, and Jee-Hyong Lee, READSUM: Retrieval-Augmented Adaptive Transformer for Source Code Summarization, IEEE Access 2023 (SCIE)
 * YunSeok Choi, Dahae Kim, and Jee-Hyong Lee, Neural Attention Model with Keyword Memory for Abstractive Document Summarization, Concurrency and Computation Practice and Experience: CCPE 2020 (SCIE)
 * Noo-ri Kim, YunSeok Choi, HyunSoo Lee, Jae-Young Choi, Suntae Kim, Jeong-Ah Kim, Youngwha Cho, and Jee-Hyong Lee, Detection of Document Modification based on Deep Neural Networks, Journal of Ambient Intelligence and Humanized Computing: JAIHC 2018 (SCIE)
