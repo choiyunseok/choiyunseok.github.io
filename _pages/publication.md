@@ -28,12 +28,7 @@ redirect_from:
 
 ### International Journal
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* YunSeok Choi, Hyojun Kim, and Jee-Hyong Lee, READSUM: Retrieval-Augmented Adaptive Transformer for Source Code Summarization, IEEE Access 2023 (SCIE)
+* YunSeok Choi, Dahae Kim, and Jee-Hyong Lee, Neural Attention Model with Keyword Memory for Abstractive Document Summarization, Concurrency and Computation Practice and Experience: CCPE 2020 (SCIE)
+* Noo-ri Kim, YunSeok Choi, HyunSoo Lee, Jae-Young Choi, Suntae Kim, Jeong-Ah Kim, Youngwha Cho, and Jee-Hyong Lee, Detection of Document Modification based on Deep Neural Networks, Journal of Ambient Intelligence and Humanized Computing: JAIHC 2018 (SCIE)
+* Noo-ri Kim, YunSeok Choi, HyunSoo Lee, and Jee-Hyong Lee, Detection of Content Changes based on Deep Neural Networks, Advances in Computer Science and Ubiquitous Computing: SA&CUTE 2016
