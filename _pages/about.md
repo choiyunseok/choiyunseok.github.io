@@ -30,7 +30,7 @@ Research Experience
 ------
 * Nanyang Technological University (NTU), 2023.06 ~ 2023.08
   * Visiting Student
-* University of Minnesota-Twin Cities, 2021.04 ~ 2021.10
+* University of Minnesota-Twin Cities (UMN), 2021.04 ~ 2021.10
   * Collaborative Researcher
  
 
