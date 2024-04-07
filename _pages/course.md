@@ -10,12 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-### 2024 Spring
-======
+2024 Spring
+------
 * Introduction of Artificial Intelligence
 * Language and Database
 * English and Database
 
-### 2023 Fall
-======
+2023 Fall
+------
 * Natural Language Processing (SKKU)
