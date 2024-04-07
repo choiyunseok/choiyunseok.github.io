@@ -19,3 +19,7 @@ redirect_from:
 2023 Fall
 ------
 * Natural Language Processing (SKKU)
+
+2023 Spring
+------
+* Natural Language Processing (CNU)
