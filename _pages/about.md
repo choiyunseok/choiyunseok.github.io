@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in Division of Language&AI at Hankuk University of Foreign Studies, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
 
-> __Hiring!__ I am looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to my email (right at the left sidebar).
+> __Hiring!__ I am looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to my email (ys.choi@hufs.ac.kr).
 
 Recent News
 ------
